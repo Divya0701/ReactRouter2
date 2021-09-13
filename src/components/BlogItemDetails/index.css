@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.bgContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  align-items: center;
+}
